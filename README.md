@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm ANJAR Adnan</h1>
 <h3 align="center">Always seeking new challenges and opportunities to grow as a software engineer</h3>
 
-- 🌱 I’m currently learning **Laravel , React**
+- 🌱 I’m currently learning **Django , React**
 
 - 👯 I’m looking to collaborate on **any innovative project**
 
-- 💬 Ask me about **C/C++ Python PHP**
+- 💬 Ask me about **Laravel DOTNET**
 
 - 📫 How to reach me **adnan.anjar2002@gmail.com**
 
